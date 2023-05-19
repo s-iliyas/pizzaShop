@@ -1,4 +1,7 @@
-# HiTalent
+# PizzaShop APIs
+
+## Requiments
+  - DRF,Djoser,... read requirements.txt file
 
 -- Backend setup for APIs of an app PizzaShop.
 
@@ -21,5 +24,7 @@ python3 manage.py runserver
 ```
 
 - Then go to  http://localhost:8000  and explore.
+
+- To read and know about all APIs, go to http://localhost:8000/docs
 
 ## Happy coding :)
